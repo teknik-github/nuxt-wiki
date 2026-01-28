@@ -1,0 +1,9 @@
+zen.spamhaus.org
+bl.spamcop.net
+b.barracudacentral.org
+dnsbl.sorbs.net
+psbl.surriel.com
+dnsbl-1.uceprotect.net
+dnsbl-2.uceprotect.net
+dnsbl-3.uceprotect.net
+
