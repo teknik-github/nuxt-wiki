@@ -1,4 +1,9 @@
-# Nginx SSL dengan Certbot
+---
+title: Nginx SSL dengan Certbot
+description: Panduan langkah demi langkah untuk mengkonfigurasi SSL pada server Nginx menggunakan CertBot dari Let's Encrypt.
+navigation:
+  icon: simple-icons:nginx
+---
 
 Certbot adalah software open-source yang digunakan untuk mendapatkan, menginstal, dan memperbarui SSL/TLS Certificate secara otomatis dari Let's Encrypt (penyedia SSL gratis).
 

@@ -1,3 +1,10 @@
+---
+title: SMB Open Media Vault
+description: Cara menggunakan smb di Open Media Vault
+navigation:
+  icon: material-symbols:smb-share
+---
+
 # SMB Open Media Vault
 Cara menggunakan smb di Open Media Vault
 1. Buka Open Media Vault dan masuk ke menu "Services".

@@ -1,6 +1,11 @@
-# Install Proxmox di debian 12
+---
+title: Installasi Proxmox di Debian 12
+description: Panduan langkah demi langkah untuk menginstal Proxmox VE menggunakan Debian 12 tanpa file ISO.
+navigation:
+  icon: simple-icons:proxmox
+---
 
-Nah pastinya kalian bertanya tanya bisa gak sih proxmox di install tanpa mengunakan file ISO nya langsung?. di pembahasan ini adalah bagaimana caranya install proxmox menggunakan debian 12
+Nah pastinya kalian bertanya tanya bisa gak sih proxmox di install tanpa mengunakan file ISO nya langsung?. di pembahasan ini adalah bagaimana caranya install proxmox menggunakan debian 12. 
 
 ## Installasi
 

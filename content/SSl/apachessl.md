@@ -1,4 +1,10 @@
-# Apache2 SSL Configuration dengan CertBot
+---
+title: Apache2 SSL Configuration dengan CertBot
+description: Panduan langkah demi langkah untuk mengkonfigurasi SSL pada server Apache2 menggunakan CertBot dari Let's Encrypt.
+navigation:
+  icon: simple-icons:apache
+---
+
 
 Untuk mengamankan website yang dihosting menggunakan Apache2, kita dapat menggunakan CertBot untuk mendapatkan dan menginstal SSL Certificate dari Let's Encrypt. Berikut adalah langkah-langkah untuk mengkonfigurasi SSL pada Apache2 menggunakan CertBot:
 
