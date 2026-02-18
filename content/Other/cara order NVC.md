@@ -1,3 +1,10 @@
+---
+title: Cara order NVC
+description: Panduan lengkap untuk melakukan order Neo Virtual Compute (NVC) di Biznet Gio Cloud
+navigation:
+  icon: material-symbols-light:computer-outline
+---
+
 # Cara order Neo Virtual Compute (NVC)
 Apa itu Neo Virtual Compute (NVC)?
 Neo Virtual Compute (NVC) adalah layanan komputasi awan yang disediakan oleh Biznet Gio Cloud, yang memungkinkan pengguna untuk menjalankan aplikasi dan layanan mereka di lingkungan virtual yang skalabel dan fleksibel.

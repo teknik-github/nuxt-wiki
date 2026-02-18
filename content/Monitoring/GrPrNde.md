@@ -1,3 +1,10 @@
+---
+title: "Cara Install Grafana, Prometheus, dan Node Exporter di Linux"
+description: "Panduan lengkap untuk monitoring server menggunakan Prometheus, Node Exporter, dan Grafana."
+navigation:
+  icon: mdi:monitor-dashboard
+---
+
 # 🖥️ Cara Install Grafana, Prometheus, dan Node Exporter di Linux
 
 Panduan lengkap untuk monitoring server menggunakan **Prometheus**, **Node Exporter**, dan **Grafana**.

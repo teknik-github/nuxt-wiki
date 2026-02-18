@@ -1,3 +1,10 @@
+---
+title: Instalasi n8n
+description: Panduan langkah demi langkah untuk menginstal dan memulai dengan n8n, alat otomatisasi alur kerja sumber terbuka.
+navigation:
+  icon: mdi:robot
+---
+
 # Getting Started with n8n
 n8n adalah alat otomatisasi alur kerja yang kuat dan fleksibel yang memungkinkan Anda menghubungkan berbagai aplikasi dan layanan untuk mengotomatiskan tugas-tugas berulang. Panduan ini akan membantu Anda memulai dengan n8n.
 

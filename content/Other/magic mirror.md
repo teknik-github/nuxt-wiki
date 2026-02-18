@@ -1,4 +1,10 @@
-# Magic Mirror
+---
+title: Magic Mirror
+description: Panduan lengkap untuk menginstal dan mengonfigurasi Magic Mirror
+navigation:
+  icon: mdi:magic-staff
+---
+
 Magic Mirror adalah proyek open-source yang memungkinkan Anda untuk membuat cermin pintar dengan berbagai informasi yang ditampilkan di atasnya. Proyek ini dibangun menggunakan teknologi web dan dapat disesuaikan sesuai kebutuhan Anda.
 
 ## Contoh Penggunaan

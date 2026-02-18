@@ -1,3 +1,10 @@
+---
+title: Device Unmanaged
+description: Cara mengatasi device unmanaged pada NetworkManager di Linux.
+navigation: 
+  icon: mdi:network-off
+---
+
 # Device Unmanaged
 Device Unmanaged bisa di sebabkan karena Networkmanager memkalukan unmanaged ke dalam interface atau bisanya ke interface wifi yang kalian miliki 
 
